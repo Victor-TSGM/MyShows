@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136706468072",
+    "project_id": "myshows-1432f",
+    "storage_bucket": "myshows-1432f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136706468072:android:b60e2abc0f8f8559e4015d",
+        "android_client_info": {
+          "package_name": "com.example.myshows"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACylr1Oi4Ls5pTdIPPddgIPrIFblOgl70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

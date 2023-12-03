@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias">
+        <item>Ação</item>
+        <item>Aventura</item>
+        <item>Comédia</item>
+        <item>Drama</item>
+        <item>Terror</item>
+        <item>Suspense</item>
+        <item>Policial</item>
+        <item>Cult</item>
+        <item>Ficção</item>
+        <item>Animação</item>
+        
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MyShows</string>
+    <string name="gcm_defaultSenderId" translatable="false">136706468072</string>
+    <string name="google_api_key" translatable="false">AIzaSyACylr1Oi4Ls5pTdIPPddgIPrIFblOgl70</string>
+    <string name="google_app_id" translatable="false">1:136706468072:android:b60e2abc0f8f8559e4015d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyACylr1Oi4Ls5pTdIPPddgIPrIFblOgl70</string>
+    <string name="google_storage_bucket" translatable="false">myshows-1432f.appspot.com</string>
+    <string name="project_id" translatable="false">myshows-1432f</string>
+    <style name="Base.Theme.MyShows" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyShows" parent="Base.Theme.MyShows"/>
+</resources>
